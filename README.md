@@ -22,5 +22,7 @@
   <a href="https://www.linkedin.com/in/sergiorodas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/sergiorodas97" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:contact@sergiorodas.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  ![Snake animation](https://github.com/SergioRodas/SergioRodas/blob/output/github-contribution-grid-snake.svg)
+
+ ![Snake animation](https://github.com/SergioRodas/SergioRodas/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
