@@ -1,7 +1,7 @@
 ## Hola! soy Sergio Rodas 👋
  <div>
   <a href="https://github.com/SergioRodas">
-  <img align="right" alt="Sergio-avatar" width="250" src="https://github.com/SergioRodas/SergioRodas/blob/main/avatar.jpg">
+  <img align="right" alt="Sergio-avatar" width="300" src="https://github.com/SergioRodas/SergioRodas/blob/main/avatar.jpg">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SergioRodas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioRodas&layout=compact&langs_count=7&theme=dracula"/>
 </div>
