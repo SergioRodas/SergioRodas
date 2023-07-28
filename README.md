@@ -1,10 +1,8 @@
 ## Hola! soy Sergio Rodas 👋
  <div>
   <a href="https://github.com/SergioRodas">
-   <a href="https://sergiorodas.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/sergiorodas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/sergiorodas97" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contact@sergiorodas.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:sergiorodasgonzalez@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <img align="left" alt="Sergio-avatar" padding="20" Width="300" src="https://github.com/SergioRodas/SergioRodas/blob/main/avatar.jpg">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=SergioRodas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioRodas&layout=compact&langs_count=7&theme=dark"/>
